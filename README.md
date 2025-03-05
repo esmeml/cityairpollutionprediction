@@ -1,4 +1,4 @@
-# Prédire les niveaux de pollution de l'air des villes à l'aide de l'apprentissage
+# Prédire les niveaux de pollution de l'air des villes à l'aide de l'apprentissage automatique
 
 ## 1. Contexte et motivation
 
