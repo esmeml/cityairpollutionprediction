@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Pollution-Prevision
-=======
 # Prédire les niveaux de pollution de l'air des villes à l'aide de l'apprentissage automatique
 
 ## 1. Contexte et motivation
@@ -22,4 +19,3 @@ Ce projet vise à utiliser l’apprentissage automatique pour prédire les nivea
 1. J. A. Ailshire and E. M. Crimmins, "_Fine particulate matter air pollution and cognitive function among older us adults_," American Journal of Epidemiology, vol. 180, no. 4, pp. 359–366, 2014.
 1. Y. Du, X. Xu, M. Chu, Y. Guo, and J. Wang, "_Air particulate matter and cardiovascular disease: the epidemiological, biomedical and clinical evidence_," Journal of Thoracic Disease, vol. 8, no. 1, p. E8, 2016. 
 1. OECD, “The economic consequences of outdoor air pollution,” 2016.
->>>>>>> 41e1aaf81bb06dfc432d5e6b59f04d57d88e2d7a
